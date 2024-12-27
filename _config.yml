@@ -39,6 +39,7 @@ search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
+google_analytics: G-0MXCZ5KCDH
 sass:
   quiet_deps: true
 # Exclude from processing.
