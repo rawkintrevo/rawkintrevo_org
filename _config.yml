@@ -18,21 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Rawkintrevo's Rawkin' Blog
+email: trevor.d.grant@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Don't Call it a comeback, I've been here for years.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.rawkintrevo.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rawkintrevo
+github_username:  rawkintrevo
 
 # Build settings
-theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page/page:num/"
+search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 sass:
   quiet_deps: true
@@ -55,3 +60,14 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/rawkintrevo
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/rawkintrevo
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
