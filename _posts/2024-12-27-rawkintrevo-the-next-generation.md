@@ -46,7 +46,8 @@ categories:
 
 # Rawkintrevo: The Next Generation
 
-The past few years have been transformative, both personally and professionally. The journey began with my foray into publishing—a monumental achievement in my career. Writing and publishing "Kubeflow for Machine Learning from Lab to Production" was a significant milestone, marking not just the accomplishment of a life-long dream, but also solidifying my expertise in a rapidly evolving technological landscape. This endeavor pushed me to distill complex concepts into accessible knowledge, influencing countless professionals and enthusiasts eager to harness the power of Kubeflow for their machine learning initiatives.
+The past few years have been transformative, both personally and professionally. The journey began with my foray into publishing—a monumental achievement in my career. Writing and publishing 
+[Kubeflow for Machine Learning from Lab to Production](https://www.amazon.com/Kubeflow-Machine-Learning-Lab-Production/dp/1492050121) was a significant milestone, marking not just the accomplishment of a life-long dream, but also solidifying my expertise in a rapidly evolving technological landscape. This endeavor pushed me to distill complex concepts into accessible knowledge, influencing countless professionals and enthusiasts eager to harness the power of Kubeflow for their machine learning initiatives.
 
 Amidst this achievement, I made a pivotal decision to leave my position at IBM, stepping into the world of consultancy. This shift was driven by a desire to focus on Kubeflow, leveraging my newfound influence and knowledge. The consultancy provided me with immense insights, exposing me to a diverse range of challenges across different industries. This period of my life was all about growth—learning to flexibly adapt to the needs of various clients while continuously exploring the breadth of Kubeflow's capabilities.
 
@@ -58,7 +59,7 @@ Each of these milestones played a crucial role in shaping the narrative of where
 
 ## Entrepreneurial Pursuits and Corporate Return
 
-Starting my own venture with Electric Elk was an exhilarating leap into entrepreneurship that felt both natural and slightly daunting. The inspiration for this cargo e-bike company grew from a deep-seated belief in sustainable transportation and a desire to create solutions that could help urbanites live more efficiently. Having embraced a car-free lifestyle myself, I was keenly aware of the potential for e-bikes to transform how we handle logistics and commuting in bustling cities. The journey taught me a wealth of practical business insights, from product development to engaging in grassroots marketing and building a community of eco-conscious supporters.
+Starting my own venture with [Electric Elk](https://electricelk.co/) was an exhilarating leap into entrepreneurship that felt both natural and slightly daunting. The inspiration for this cargo e-bike company grew from a deep-seated belief in sustainable transportation and a desire to create solutions that could help urbanites live more efficiently. Having embraced a car-free lifestyle myself, I was keenly aware of the potential for e-bikes to transform how we handle logistics and commuting in bustling cities. The journey taught me a wealth of practical business insights, from product development to engaging in grassroots marketing and building a community of eco-conscious supporters.
 
 However, as any entrepreneur knows, the path is not without its challenges. It was a period of intense learning, adaptation, and occasional frustration. Yet, these experiences fostered personal growth and resilience. The lessons I garnered from navigating the complexities of a startup have been invaluable—fueling both my passion for sustainable urban solutions and my professional capabilities.
 
@@ -74,11 +75,13 @@ The world of artificial intelligence has always been one of rapid change and fas
 
 I’ve had the privilege of meeting numerous researchers and developers deeply embedded in the field of AI. Conversations with these brilliant minds have been eye-opening, offering insights into their innovative approaches and the challenges they face. Many are committed to ethical AI development, ensuring that as we push the boundaries of what machines can do, we remain aware of the societal implications. Their resilience and foresight enrich our understanding of AI, providing a necessary compass as we venture into largely uncharted territories.
 
-Currently, my role with the AI Alliance feels like a natural progression in my professional journey. The position aligns seamlessly with my passion for innovation and offers an incredible platform to influence the future of AI in meaningful ways. Working with the AI Alliance opens doors to collaborate on groundbreaking projects and engage with a global network of thought leaders. It’s a thrilling experience to be at the heart of such transformative work, where technology and human potential intertwine.
+Currently, my role with the [AI Alliance](https://thealliance.ai/) feels like a natural progression in my professional journey. The position aligns seamlessly with my passion for innovation and offers an incredible platform to influence the future of AI in meaningful ways. Working with the AI Alliance opens doors to collaborate on groundbreaking projects and engage with a global network of thought leaders. It’s a thrilling experience to be at the heart of such transformative work, where technology and human potential intertwine.
 
 Every day, I’m reminded of how far we’ve come and how much potential lies ahead. The journey has been adventurous, challenging, and profoundly rewarding, paving the way for exciting new chapters in both my professional and personal narratives.
 
 ## The Vision for 'rawkintrevo.org'
+
+> **rawkintrevo's note**: GPT-4o is more ambitious than I am. Idk about all of these community builds. But reach out if you're interested, I could be persuaded. 
 
 As I relaunch 'rawkintrevo.org', the blog takes on a renewed vision that intertwines personal passion with professional expertise. A key component of this transformation is my commitment to sharing tech projects that I'm working on. These projects will not only highlight the nitty-gritty of technological advancements but will also serve as a platform for experimentation and knowledge sharing. I'm particularly excited to delve into areas where technology and societal innovation meet, fostering discussions that challenge the status quo.
 
