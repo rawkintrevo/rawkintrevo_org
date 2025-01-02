@@ -17,7 +17,7 @@ email_notification:
     - ''
 publicize_twitter_user:
     - rawkintrevo
-image: /wp-content/uploads/2025/01/hierarchy.jpeg
+image: /wp-content/uploads/2025/01/hierarchy.jpg
 categories:
     - personal
     - ai
